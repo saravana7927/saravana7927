@@ -1,9 +1,9 @@
 ## Hi there, I'm saravana  👋
 
 🚀 Deployed full-stack web apps with clean, responsive UIs and RESTful APIs <br>
-⚙️ Optimized backend performance by refactoring logic and improving aggregate queries
-🔐 Hands-on with role-based security, exception handling, and reactive UI logic in OutSystems
-📊 Currently developing a Personal Finance Management (PFM) system featuring income/expense tracking, investment visualization, and custom reporting logic
+⚙️ Optimized backend performance by refactoring logic and improving aggregate queries <br>
+🔐 Hands-on with role-based security, exception handling, and reactive UI logic in OutSystems <br>
+📊 Currently developing a Personal Finance Management (PFM) system featuring income/expense tracking, investment visualization, and custom reporting logic<br>
 
 # 💫 About Me:
 🚀 Deployed full stack web apps with clean, responsive UIs and RESTful APIs<br><br>⚙️ Optimized backend performance by refactoring logic and improving aggregate queries<br><br>🔐 Hands-on with role-based security, exception handling, and reactive UI logic in OutSystems<br><br>📊 Currently developing a Personal Finance Management (PFM) system featuring income/expense tracking, investment visualization, and custom reporting logic
